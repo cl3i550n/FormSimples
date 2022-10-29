@@ -11,7 +11,7 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/cl3i550n/Projeto_AppLabsDoDev/total?style=plastic)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/cl3i550n/Projeto_AppLabsDoDev?style=plastic)
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/w44g1KB/image.png" alt="image" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/w44g1KB/image.png" alt="image" border="0"></a>
 
 ## 💻 Projeto!
 
